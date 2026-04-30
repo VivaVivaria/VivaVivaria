@@ -1,8 +1,6 @@
-## Hi, I’m Deante 👋
+## Glad you made it. Welcome to the Observatory 🌿
 
-**Environmental Monitoring Systems Engineer**
-
-I build monitoring systems that help environmental teams see change clearly and know when to act.
+**We build monitoring systems that help environmental teams know when to act.**
 
 ---
 
@@ -12,28 +10,29 @@ I’m developing **Digital Sentries**: environmental monitoring systems designed
 
 Each sentry is built around a specific environmental problem.
 
-### Sentry-V: Vegetation Stress Sentry
+### Sentry-V: Vegetation Stress Monitor
 
-Sentry-V monitors vegetation behavior over time using remote sensing data.
+Did you know plants hold hidden signatures?
 
-Vegetation has seasonal patterns. When those patterns shift outside expected behavior, it may point to stress from drought, flooding, heat, invasive species, or other environmental pressures.
+By tracking chlorophyll activity over time, we can see patterns shaped by their environment. But when those patterns shift outside expected behavior, it may point to possible stress.
 
-**Purpose:** Give environmental teams an early signal so they know where to look, investigate, and respond.
-
+I designed Sentry-V as an alert system, kind of like a weather pop-up on your phone.
 > Explore the Sentry-V repo to learn more.
 
 ---
 
 ## Skills & Tools
 
-**Core Areas:**  
-Remote Sensing | Geospatial Systems | Environmental Data Engineering
-
-**Tools:**  
+**We use the power of the cloud!**  
 Google Earth Engine | Google Cloud Platform | BigQuery | Python | GIS
+
+**We strive for scientific integrity:**  
+Remote Sensing | Geospatial Systems | Environmental Data Engineering
 
 ---
 
-## More About Me
+## Want to know more about me?
 
-Composer | Nature lover | Games & animation fan | Dog person
+Well... being a great steward means fostering a love for the little things in life.
+
+Composer | Games & animation fan | Dog person
