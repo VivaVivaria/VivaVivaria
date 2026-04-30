@@ -1,4 +1,4 @@
-## Glad you made it. Welcome to the Observatory 🌿
+## Glad you made it. Welcome to the Observatory 
 
 **We build monitoring systems that help environmental teams know when to act.**
 
@@ -10,14 +10,14 @@ I’m developing **Digital Sentries**: environmental monitoring systems designed
 
 Each sentry is built around a specific environmental problem.
 
-### Sentry-V: Vegetation Stress Monitor
+### Sentry-V: Vegetation Stress Monitor 🌿 
 
 Did you know plants hold hidden signatures?
 
 By tracking chlorophyll activity over time, we can see patterns shaped by their environment. But when those patterns shift outside expected behavior, it may point to possible stress.
 
 I designed Sentry-V as an alert system, kind of like a weather pop-up on your phone.
-> Explore the Sentry-V repo to learn more.
+>  [Explore Sentry-V: Vegetation Stress Monitor](https://github.com/VivaVivaria/Sentry-V)
 
 ---
 
