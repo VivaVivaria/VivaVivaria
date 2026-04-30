@@ -4,7 +4,7 @@
 
 ---
 
-## Current Focus
+## The LAB's Current Focus MAY 1 2026
 
 I’m developing **Digital Sentries**: environmental monitoring systems designed to watch specific conditions over time and alert teams when patterns become unusual.
 
