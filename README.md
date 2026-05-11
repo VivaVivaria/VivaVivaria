@@ -10,10 +10,6 @@ I’m developing **Digital Sentries**: monitoring systems designed to watch spec
 
 ### Sentry-V: Vegetation Stress Monitor 🌿 
 
-Did you know plants hold hidden signatures?
-
-By tracking chlorophyll activity, we can see patterns shaped by their environment. But when those patterns drift. it may point to occuring stress.
-
 I designed Sentry-V as an alert system, kind of like a weather pop-up on your phone.
 >  [Explore Sentry-V: Vegetation Stress Monitor](https://github.com/VivaVivaria/Sentry-V)
 
